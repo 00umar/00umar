@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Umar 👋
 
-<!--
-**00umar/00umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer building real-world web applications — from idea to deployment USING AI (claude code, etc).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [RideSlot](https://github.com/00umar/rideslot) · [Live](https://rideslot.vercel.app)
+A ride-hailing marketplace for intercity routes in Nigeria. Drivers post trips, passengers book and pay online.
+
+- **Stack:** React, Node.js, Express, PostgreSQL, Paystack, Cloudinary
+- **Features:** JWT auth, Paystack payment + refunds + driver payouts, PIN-based trip confirmation, email notifications, driver ID verification, PWA (installable on mobile), rate limiting, private document storage
+- **Deployed:** Vercel (frontend) + Railway (backend + database)
+
+---
+
+### [765 CRM Dashboard](#) · [Live](#)
+A SaaS CRM dashboard UI implementation based on a Figma design — multi-section layout covering sales, field operations, brokerage, workforce KPIs, and project management.
+
+- **Stack:** React, TypeScript, shadcn/ui, Radix UI, Recharts, MUI, Tailwind CSS
+- **Features:** Responsive dashboard with data visualizations, drag-and-drop, multi-tab navigation, component-driven architecture
+
+---
+
+## Tech
+
+**Frontend:** React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI  
+**Backend:** Node.js, Express, PostgreSQL  
+**Tools:** Vercel, Railway, Cloudinary, Paystack, Git
+
+---
+
+## Contact
+
+- Email: abubakarumar040@gmail.com
+- GitHub: [github.com/00umar](https://github.com/00umar)
