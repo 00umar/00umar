@@ -15,7 +15,7 @@ A ride-hailing marketplace for intercity routes in Nigeria. Drivers post trips, 
 
 ---
 
-### [765 CRM Dashboard](#) · [Live](#)
+### (https://github.com/00umar/765-crm) · [Live](#)
 A SaaS CRM dashboard UI implementation based on a Figma design — multi-section layout covering sales, field operations, brokerage, workforce KPIs, and project management.
 
 - **Stack:** React, TypeScript, shadcn/ui, Radix UI, Recharts, MUI, Tailwind CSS
